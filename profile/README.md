@@ -1,2 +1,2 @@
 # Cherry Grove
-The highly moddable, high performance & highly open block game engine and its default playthrough.
+The highly moddable, high performance and highly free & open block game engine, and its default playthrough.
