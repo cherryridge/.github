@@ -1,4 +1,4 @@
-# 🌸🌳CherryGrove
+# 🌸🌳 CherryGrove
 What the organization contains...
 
 1. An easily customizable, high performance block game "engine" made for the next generation.
