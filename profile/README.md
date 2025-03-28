@@ -1,4 +1,4 @@
-# 🌸⛰️ CherryRidge
+# 🌸⛰️ CherryRidge Developments
 What the organization contains...
 
 1. CherryGrove: An easily customizable, high performance scripting-based block game engine made for the next generation.
